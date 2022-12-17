@@ -28,3 +28,13 @@ c c b c b
 c a a a c
 b b b a c
 a a c c a
+b c b c a
+a a a a a
+c c c c c
+c b c c b
+b a a a a
+a c c c c
+c b a c a
+b a a c a
+b b b b c
+c b c b b
